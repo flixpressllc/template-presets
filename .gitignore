@@ -1,0 +1,5 @@
+# Very important to ignore the credentials for AWS!
+aws.json
+
+# ignore node stuff
+node_modules
