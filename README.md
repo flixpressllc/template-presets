@@ -43,3 +43,5 @@ Then the latest presets would be ready to go.
 Possibly, a better solution during development --- because pushing to a repo for every small change is kind of against the best practices for Git --- would be using Dropbox.
 
 You'd simply right click the folder that houses your presets, and choose "Copy Dropbox link". Then use that location while you work.
+
+Of course, the best of both worlds would be to pull down a fork of this repo into a Dropbox folder so that you could both develop presets quickly, test them, then pull request them into this repo for inclusion on the main site.
