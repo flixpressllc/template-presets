@@ -9,7 +9,7 @@ import fs from 'fs';
 const filesPath = 'templates/presets/';
 const baseProductionPath = '/Volumes/MediaRobot/';
 const baseDevelopmentPath = 'development_files/';
-const watchedFiles = 'presets/*.{xml,js}';
+const watchedFiles = 'presets/**/*.{xml,js}';
 
 // derived constants
 const productionPath = baseProductionPath + filesPath;
