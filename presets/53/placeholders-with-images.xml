@@ -35,8 +35,8 @@
                 <Time>6</Time>
                 <CaptionedImages></CaptionedImages>
                 <TextLines>
-                    <String>User Entered Text</String>
-                    <String>User Entered Text 2</String>
+                    <String></String>
+                    <String></String>
                     <String>3 RtoL Swing</String>
                     <String></String>
                 </TextLines>
@@ -78,13 +78,13 @@
                 <Time>4</Time>
                 <CaptionedImages></CaptionedImages>
                 <TextLines>
-                    <String>User Entered Text 3</String>
+                    <String></String>
                     <String>2 Twist In</String>
                     <String></String>
                     <String></String>
                 </TextLines>
                 <ImageFileNames>
-                    <String>DonDenton_3-23-2016_19021167.jpg</String>
+                    <String>Placeholder.png</String>
                 </ImageFileNames>
             </ESlide>
             <ESlide>
@@ -120,42 +120,6 @@
                 </PassageObject>
                 <Time>7</Time>
                 <CaptionedImages>
-                    <CaptionedImage>
-                        <Captions>
-                            <CaptionField>
-                                <Label>caption</Label>
-                                <Value>User Entered Caption Text 1</Value>
-                            </CaptionField>
-                        </Captions>
-                        <Filename>TB/DonDenton_3-23-2016_1901858.jpg</Filename>
-                    </CaptionedImage>
-                    <CaptionedImage>
-                        <Captions>
-                            <CaptionField>
-                                <Label>caption</Label>
-                                <Value>User Entered Caption Text 2</Value>
-                            </CaptionField>
-                        </Captions>
-                        <Filename>TB/DonDenton_3-23-2016_19018870.jpg</Filename>
-                    </CaptionedImage>
-                    <CaptionedImage>
-                        <Captions>
-                            <CaptionField>
-                                <Label>caption</Label>
-                                <Value></Value>
-                            </CaptionField>
-                        </Captions>
-                        <Filename>TB/DonDenton_3-23-2016_19019620.jpg</Filename>
-                    </CaptionedImage>
-                    <CaptionedImage>
-                        <Captions>
-                            <CaptionField>
-                                <Label>caption</Label>
-                                <Value>User Entered Caption Text 4</Value>
-                            </CaptionField>
-                        </Captions>
-                        <Filename>TB/DonDenton_3-23-2016_19020339.jpg</Filename>
-                    </CaptionedImage>
                 </CaptionedImages>
                 <TextLines>
                     <String></String>
