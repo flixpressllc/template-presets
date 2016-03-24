@@ -16,6 +16,8 @@ To turn on Dev Mode, either open your console and enter the command `Flixpress.d
 
 Dev Mode is not persistent, so you will have to turn it on again after every page refresh.
 
+# Hosting Presets
+
 ## GitHub raw content
 
 To host presets in GitHub, you'll need to know the path to the raw files, which is something like
@@ -45,3 +47,18 @@ Possibly, a better solution during development --- because pushing to a repo for
 You'd specifically have to use the Public Folder. Simply right click a file in the folder that houses your presets, and choose "Copy Public Link". Then chop the file name off of that string to get the folder and use that location while you work.
 
 Of course, the best of both worlds would be to pull down a fork of this repo into a Dropbox folder so that you could both develop presets quickly, test them, then pull request them into this repo for inclusion on the main site.
+
+## Flixpress's Amazon S3 Bucket
+
+You'll need to create a file in the root directory of this repo called `aws.json`. From there, you'll enter the authentication for the bucket like this:
+
+```json
+{
+  "key": "THE_KEY_HERE",
+  "secret": "THE_SECRET_HERE"
+}
+```
+
+Eventually, the Gulp file provided will be a little more universal, so that you can use *any* S3 bucket, but for now, it is Flixpress or just do it manually.
+
+From there, use `gulp development` from the command line, assuming you've got all the `npm` stuff you need.

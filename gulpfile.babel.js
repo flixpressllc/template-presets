@@ -47,7 +47,7 @@ gulp.task('default', () => {
   }
 });
 
-gulp.task('develop', () => {
+gulp.task('development', () => {
   gulp.watch(watchedFiles, ['default']);
 });
 
