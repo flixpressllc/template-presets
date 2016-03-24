@@ -1,4 +1,4 @@
-<OrderRequestOfESlidesRndTemplate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<OrderRequestOfESlidesRndTemplate xmlns="undefined" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <RenderedData>
         <Slides>
             <ESlide>
@@ -13,14 +13,14 @@
                 <Videos>
                     <VideoInfo>
                         <Id>0</Id>
-                        <Filename/>
+                        <Filename></Filename>
                         <Length>0</Length>
                     </VideoInfo>
                 </Videos>
                 <CustomVideos>
                     <VideoInfo>
                         <Id>0</Id>
-                        <Filename/>
+                        <Filename></Filename>
                         <Length>0</Length>
                     </VideoInfo>
                 </CustomVideos>
@@ -28,16 +28,17 @@
                     <int>0</int>
                 </LogoIds>
                 <PassageObject>
-                    <Title/>
-                    <Body/>
+                    <Title></Title>
+
+                    <Body></Body>
                 </PassageObject>
                 <Time>6</Time>
-                <CaptionedImages/>
+                <CaptionedImages></CaptionedImages>
                 <TextLines>
                     <String>User Entered Text</String>
-                    <String>Thu, 01 Feb 2001 06:00:00 GMT</String>
+                    <String>User Entered Text 2</String>
                     <String>3 RtoL Swing</String>
-                    <String>true</String>
+                    <String></String>
                 </TextLines>
                 <ImageFileNames>
                     <String>Placeholder.png</String>
@@ -55,14 +56,14 @@
                 <Videos>
                     <VideoInfo>
                         <Id>0</Id>
-                        <Filename/>
+                        <Filename></Filename>
                         <Length>0</Length>
                     </VideoInfo>
                 </Videos>
                 <CustomVideos>
                     <VideoInfo>
                         <Id>0</Id>
-                        <Filename/>
+                        <Filename></Filename>
                         <Length>0</Length>
                     </VideoInfo>
                 </CustomVideos>
@@ -70,16 +71,17 @@
                     <int>0</int>
                 </LogoIds>
                 <PassageObject>
-                    <Title/>
-                    <Body/>
+                    <Title></Title>
+
+                    <Body></Body>
                 </PassageObject>
                 <Time>4</Time>
-                <CaptionedImages/>
+                <CaptionedImages></CaptionedImages>
                 <TextLines>
-                    <String>Thu, 01 Mar 2001 06:00:00 GMT</String>
+                    <String>User Entered Text 3</String>
                     <String>2 Twist In</String>
-                    <String>true</String>
-                    <String>true</String>
+                    <String></String>
+                    <String></String>
                 </TextLines>
                 <ImageFileNames>
                     <String>DonDenton_3-23-2016_19021167.jpg</String>
@@ -97,14 +99,14 @@
                 <Videos>
                     <VideoInfo>
                         <Id>0</Id>
-                        <Filename/>
+                        <Filename></Filename>
                         <Length>0</Length>
                     </VideoInfo>
                 </Videos>
                 <CustomVideos>
                     <VideoInfo>
                         <Id>0</Id>
-                        <Filename/>
+                        <Filename></Filename>
                         <Length>0</Length>
                     </VideoInfo>
                 </CustomVideos>
@@ -112,8 +114,9 @@
                     <int>0</int>
                 </LogoIds>
                 <PassageObject>
-                    <Title/>
-                    <Body/>
+                    <Title></Title>
+
+                    <Body></Body>
                 </PassageObject>
                 <Time>7</Time>
                 <CaptionedImages>
@@ -121,7 +124,7 @@
                         <Captions>
                             <CaptionField>
                                 <Label>caption</Label>
-                                <Value>Mon, 01 Jan 2001 06:00:00 GMT</Value>
+                                <Value>User Entered Caption Text 1</Value>
                             </CaptionField>
                         </Captions>
                         <Filename>TB/DonDenton_3-23-2016_1901858.jpg</Filename>
@@ -130,7 +133,7 @@
                         <Captions>
                             <CaptionField>
                                 <Label>caption</Label>
-                                <Value>Thu, 01 Feb 2001 06:00:00 GMT</Value>
+                                <Value>User Entered Caption Text 2</Value>
                             </CaptionField>
                         </Captions>
                         <Filename>TB/DonDenton_3-23-2016_19018870.jpg</Filename>
@@ -139,7 +142,7 @@
                         <Captions>
                             <CaptionField>
                                 <Label>caption</Label>
-                                <Value/>
+                                <Value></Value>
                             </CaptionField>
                         </Captions>
                         <Filename>TB/DonDenton_3-23-2016_19019620.jpg</Filename>
@@ -148,17 +151,17 @@
                         <Captions>
                             <CaptionField>
                                 <Label>caption</Label>
-                                <Value>Sun, 01 Apr 2001 06:00:00 GMT</Value>
+                                <Value>User Entered Caption Text 4</Value>
                             </CaptionField>
                         </Captions>
                         <Filename>TB/DonDenton_3-23-2016_19020339.jpg</Filename>
                     </CaptionedImage>
                 </CaptionedImages>
                 <TextLines>
-                    <String>true</String>
-                    <String>true</String>
-                    <String>true</String>
-                    <String>true</String>
+                    <String></String>
+                    <String></String>
+                    <String></String>
+                    <String></String>
                 </TextLines>
                 <ImageFileNames>
                     <String>Placeholder.png</String>
@@ -181,7 +184,7 @@
         </AudioInfo>
     </RenderedData>
     <ResolutionId>3</ResolutionId>
-    <IsPreview/>
+    <IsPreview>true</IsPreview>
     <ResolutionOptions>
         <ListItemViewModel>
             <Id>3</Id>
